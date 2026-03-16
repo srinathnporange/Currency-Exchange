@@ -38,10 +38,8 @@ The automation was built using Make.com and integrates with ExchangeRate API and
 
 ## Sample Output Data
 
-| Date | USD | INR Rate | EUR Rate |
-|-----|-----|-----|-----|
-| 2026-02-06 | 1 | 90.335 | 0.8482 |
-
+![data
+](https://github.com/srinathnporange/Currency-Exchange/blob/main/6179236450705018231.jpg)
 ---
 
 ## Key Learnings
