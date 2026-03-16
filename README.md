@@ -33,7 +33,7 @@ The automation was built using Make.com and integrates with ExchangeRate API and
 ---
 
 ## Workflow Screenshot
-https://github.com/srinathnporange/Currency-Exchange/commit/b5e3740138001c02fc04e77b655c7edf7387a2ee#diff-6a1b1e71b9d21e27d68c931fb6772c1fdcc8f58a1a2f0666fddeb34da03e2243
+![workflow]https://github.com/srinathnporange/Currency-Exchange/commit/b5e3740138001c02fc04e77b655c7edf7387a2ee#diff-6a1b1e71b9d21e27d68c931fb6772c1fdcc8f58a1a2f0666fddeb34da03e2243
 
 ---
 
